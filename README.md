@@ -1,6 +1,6 @@
-#PlayEvents
+funEvents
 
-Live Deployment URL: https://playevents.netlify.app/
+Live Deployment URL: 
 
 Project Description
 PlayEvents is a seamless platform designed for users to effortlessly explore, filter, and book tickets to their favorite events. Whether users are music enthusiasts, theater aficionados, festival lovers, or sports fanatics, PlayEvents provides a comprehensive solution to discover and engage with a diverse range of events.
@@ -49,13 +49,3 @@ Netlify: The application is hosted and deployed on Netlify, leveraging its featu
 #npm run dev
 
 
-References:
-
-[1] Safak Kocaoglu. (2023). E-commerce. GitHub Repository. https://github.com/safak/youtube2022.git
-
-[2] Rafel Qazi (2021).  How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!) [Video]. YouTube. https://www.youtube.com/watch?v=XtMThy8QKqU&t=9643s
-
-[3] Safak (2021).  Redux For Beginners | Redux Tutorial with Redux Toolkit
-[Video]. YouTube. https://www.youtube.com/watch?v=DYtYyFOfpBY&t=1286s
-
-[4] ChatGPT. (2024). Debugging
