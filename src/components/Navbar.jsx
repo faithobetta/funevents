@@ -4,7 +4,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close"; // Import the CloseIcon
 import { Link } from "react-router-dom";
 import { logout } from "../redux/authSlice";
-import logo from "../assets/logow.png";
+import logo from "../assets/logo.png";
 
 export default function Navbar() {
   const [showNavbar, setShowNavbar] = useState(false);
@@ -25,7 +25,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="container">
-        <img src={logo} className="logo" alt="" />
+        <img src={logo} sizes={10} className="logo" alt="" />
         <div
           className={`menu-icon ${showNavbar ? "active" : ""}`}
           onClick={handleShowNavbar}
